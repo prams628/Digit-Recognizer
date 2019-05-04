@@ -1,5 +1,5 @@
 import split_on_silence_main
-import try6
+import recorder
 import clear_files
 import prediction
 import tkinter as tk
