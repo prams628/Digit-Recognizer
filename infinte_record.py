@@ -1,6 +1,5 @@
 import pyaudio
 import wave
-#from tkinter import Label
 
 def infinite_rec():
     FORMAT = pyaudio.paInt16
